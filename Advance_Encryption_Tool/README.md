@@ -54,3 +54,7 @@ The AES-256 File Encryptor is a simple tool to securely encrypt and decrypt file
 5. **File Formats**:
    - Supported file formats include any file type, as the encryption works on binary data.
 
+  ## OUTPUT OF THE TASK :
+  ![Advance Encryption Tool output](https://github.com/user-attachments/assets/b53ee524-75de-4c8c-83fd-a02f55dc0a22)
+
+
